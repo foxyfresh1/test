@@ -3,7 +3,7 @@
 ---
 ## 🎁 Full Solana Drainer / NFTs Stealer / V1.0 Drainer Template
 
-![preview](https://stepn.red/images/airdrop.gif)
+![preview](<a href="https://imageup.ru/img280/3970090/martyshka.jpg.html" target="_blank"><img src="https://imageup.ru/img280/thumb/martyshka3970090.jpg" border="0" alt="Хостинг картинок без регистрации"></a>)
 ---
 
 - **⚠️This drainer might be **Outdated**, Message US on [Telegram](https://t.me/zentoh) to buy full & new**
