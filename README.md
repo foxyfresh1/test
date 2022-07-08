@@ -3,7 +3,7 @@
 ---
 ## 🎁 Full Solana Drainer / NFTs Stealer / V1.0 Drainer Template
 
-![preview](https://ibb.co/dLXrrL7)
+![preview](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
 ---
 
 - **⚠️This drainer might be **Outdated**, Message US on [Telegram](https://t.me/zentoh) to buy full & new**
